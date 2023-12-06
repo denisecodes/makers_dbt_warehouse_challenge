@@ -22,7 +22,7 @@ I created the following views:
 * Total Viewing Time Per Year Month
 * Total Viewing Time Per Year Month
 
-### Screenshots
+### Schema
 
 Overall I created 6 tables - 5 fact tables, 1 dimension table and 3 views as summary tables. You can find the `dbt_warehouse` schema with the tables and views I have created to complete the challenge.
 
